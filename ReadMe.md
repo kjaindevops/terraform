@@ -1,0 +1,1 @@
+This is the Repo for the resource creation using Terraform codes.
